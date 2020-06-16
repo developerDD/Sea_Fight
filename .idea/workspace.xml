@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="810ae223-4589-4e6d-a6da-468490826658" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="810ae223-4589-4e6d-a6da-468490826658" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -41,7 +57,26 @@
       </method>
     </configuration>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="281" y="38" width="794" height="725" key="CommitChangelistDialog2" timestamp="1592320494390">
+      <screen x="0" y="38" width="1366" height="730" />
+    </state>
+    <state x="281" y="38" width="794" height="725" key="CommitChangelistDialog2/0.38.1366.730@0.38.1366.730" timestamp="1592320494390" />
     <state x="556" y="302" key="Github.ShareDialog" timestamp="1592320358187">
       <screen x="0" y="38" width="1366" height="730" />
     </state>
@@ -50,5 +85,13 @@
       <screen x="0" y="38" width="1366" height="730" />
     </state>
     <state x="647" y="86" width="332" height="578" key="Github.UntrackedFilesDialog/0.38.1366.730@0.38.1366.730" timestamp="1592320389116" />
+    <state x="187" y="38" key="SettingsEditor" timestamp="1592320686562">
+      <screen x="0" y="38" width="1366" height="730" />
+    </state>
+    <state x="187" y="38" key="SettingsEditor/0.38.1366.730@0.38.1366.730" timestamp="1592320686562" />
+    <state x="481" y="319" width="393" height="161" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592320514376">
+      <screen x="0" y="38" width="1366" height="730" />
+    </state>
+    <state x="481" y="319" width="393" height="161" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.38.1366.730@0.38.1366.730" timestamp="1592320514376" />
   </component>
 </project>
